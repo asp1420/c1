@@ -1,5 +1,5 @@
-BASES AND LIMITS OF DEEP LEARNING
-
+<b>BASES AND LIMITS OF DEEP LEARNING</b>
+<br>
 This course presents an introduction of the bases and limits of Deep
 Learning. We will explain some basics questions such as, What is
 Deep Learning?, Why is deep learning so powerful and what can it be
