@@ -11,16 +11,16 @@ focus in Convolutional Neural Networks and see how them work
 for yourself.
 </p>
 <p>
-<b>Textbook:</b>
-Ian Goodfellow and Yoshua Bengio and Aaron Courville
-Deep Learning
-MIT Press 2016
+<b>Textbook:</b><br>
+Ian Goodfellow and Yoshua Bengio and Aaron Courville<br>
+Deep Learning<br>
+MIT Press 2016<br>
 http://www.deeplearningbook.org
 </p>
 
 <p>
-<b>Software</b>
-Jupiter Notebook (Python 3.5)
-Keras (as wrapper) on TensorFlow
+<b>Software</b><br>
+Jupiter Notebook (Python 3.5)<br>
+Keras (as wrapper) on TensorFlow<br>
 https://keras.io
 </p>
